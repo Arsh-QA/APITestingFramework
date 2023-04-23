@@ -1,0 +1,11 @@
+/Users/arshgupta/eclipse-workspace/APITestingFramework/src/test/java/com/w2a/APITestingFramework/APIs/CreateCustomerAPI.java
+/Users/arshgupta/eclipse-workspace/APITestingFramework/src/test/java/com/w2a/APITestingFramework/utilities/DataUtil.java
+/Users/arshgupta/eclipse-workspace/APITestingFramework/src/test/java/com/w2a/APITestingFramework/testcases/CreateCustomerTest.java
+/Users/arshgupta/eclipse-workspace/APITestingFramework/src/test/java/com/w2a/APITestingFramework/utilities/ExcelReader.java
+/Users/arshgupta/eclipse-workspace/APITestingFramework/src/test/java/com/w2a/APITestingFramework/listeners/ExtentManager.java
+/Users/arshgupta/eclipse-workspace/APITestingFramework/src/test/java/com/w2a/APITestingFramework/rough/TestProperties.java
+/Users/arshgupta/eclipse-workspace/APITestingFramework/src/test/java/com/w2a/APITestingFramework/listeners/ExtentListeners.java
+/Users/arshgupta/eclipse-workspace/APITestingFramework/src/test/java/com/w2a/APITestingFramework/APIs/DeleteCustomerAPI.java
+/Users/arshgupta/eclipse-workspace/APITestingFramework/src/test/java/com/w2a/APITestingFramework/setUp/BaseTest.java
+/Users/arshgupta/eclipse-workspace/APITestingFramework/src/test/java/com/w2a/APITestingFramework/testcases/DeleteCustomerTest.java
+/Users/arshgupta/eclipse-workspace/APITestingFramework/src/test/java/com/w2a/APITestingFramework/utilities/TestUtil.java

@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 6.947 s <<< FAILURE! - in TestSuite
+deleteCustomer(com.w2a.APITestingFramework.testcases.DeleteCustomerTest)  Time elapsed: 0.719 s  <<< FAILURE!
+java.lang.AssertionError: ID Key is not present expected [true] but found [false]
+	at com.w2a.APITestingFramework.testcases.DeleteCustomerTest.deleteCustomer(DeleteCustomerTest.java:49)
+
+deleteCustomer(com.w2a.APITestingFramework.testcases.DeleteCustomerTest)  Time elapsed: 0.744 s  <<< FAILURE!
+java.lang.AssertionError: ID Key is not present expected [true] but found [false]
+	at com.w2a.APITestingFramework.testcases.DeleteCustomerTest.deleteCustomer(DeleteCustomerTest.java:49)
+

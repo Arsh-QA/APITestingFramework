@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1700" started-at="2023-04-22T06:43:11Z" finished-at="2023-04-22T06:43:13Z">
+    <groups>
+    </groups>
+    <test name="Delete Customer API Test" duration-ms="17" started-at="2023-04-22T06:43:11Z" finished-at="2023-04-22T06:43:11Z">
+      <class name="com.w2a.APITestingFramework.testcases.DeleteCustomerTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.w2a.APITestingFramework.testcases.DeleteCustomerTest@212b5695]" name="setUp" is-config="true" duration-ms="282" started-at="2023-04-22T06:43:11Z" finished-at="2023-04-22T06:43:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.w2a.APITestingFramework.testcases.DeleteCustomerTest@212b5695]" name="tearDown" is-config="true" duration-ms="1" started-at="2023-04-22T06:43:13Z" finished-at="2023-04-22T06:43:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.w2a.APITestingFramework.testcases.DeleteCustomerTest -->
+    </test> <!-- Delete Customer API Test -->
+    <test name="Create Customer API Test" duration-ms="1700" started-at="2023-04-22T06:43:11Z" finished-at="2023-04-22T06:43:13Z">
+      <class name="com.w2a.APITestingFramework.testcases.CreateCustomerTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.w2a.APITestingFramework.testcases.CreateCustomerTest@66498326]" name="setUp" is-config="true" duration-ms="1" started-at="2023-04-22T06:43:11Z" finished-at="2023-04-22T06:43:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.w2a.APITestingFramework.testcases.CreateCustomerTest@66498326]" name="setUp" is-config="true" duration-ms="1" started-at="2023-04-22T06:43:11Z" finished-at="2023-04-22T06:43:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.w2a.APITestingFramework.testcases.CreateCustomerTest@66498326]" name="setUp" is-config="true" duration-ms="1" started-at="2023-04-22T06:43:11Z" finished-at="2023-04-22T06:43:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCreateCustomerAPIWithValidSecretKey(java.util.Hashtable)[pri:0, instance:com.w2a.APITestingFramework.testcases.CreateCustomerTest@66498326]" name="validateCreateCustomerAPIWithValidSecretKey" duration-ms="1668" started-at="2023-04-22T06:43:11Z" data-provider="data" finished-at="2023-04-22T06:43:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{email=jsaloni2708@gmail.com, name=Saloni Gupta, description=Adding the third customer in the framework}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateCustomerAPIWithValidSecretKey -->
+        <test-method status="PASS" signature="validateCreateCustomerAPIWithValidSecretKey(java.util.Hashtable)[pri:0, instance:com.w2a.APITestingFramework.testcases.CreateCustomerTest@66498326]" name="validateCreateCustomerAPIWithValidSecretKey" duration-ms="1668" started-at="2023-04-22T06:43:11Z" data-provider="data" finished-at="2023-04-22T06:43:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{email=arushigupta935@gmail.com, name=Arushi Gupta, description=Adding the forth customer in the framework}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateCustomerAPIWithValidSecretKey -->
+        <test-method status="PASS" signature="validateCreateCustomerAPIWithValidSecretKey(java.util.Hashtable)[pri:0, instance:com.w2a.APITestingFramework.testcases.CreateCustomerTest@66498326]" name="validateCreateCustomerAPIWithValidSecretKey" duration-ms="1668" started-at="2023-04-22T06:43:11Z" data-provider="data" finished-at="2023-04-22T06:43:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{email=arshgupta18@gmail.com, name=Arsh Gupta, description=Adding the second customer in the framework}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateCustomerAPIWithValidSecretKey -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.w2a.APITestingFramework.testcases.CreateCustomerTest@66498326]" name="tearDown" is-config="true" duration-ms="1" started-at="2023-04-22T06:43:13Z" finished-at="2023-04-22T06:43:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.w2a.APITestingFramework.testcases.CreateCustomerTest@66498326]" name="tearDown" is-config="true" duration-ms="1" started-at="2023-04-22T06:43:13Z" finished-at="2023-04-22T06:43:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.w2a.APITestingFramework.testcases.CreateCustomerTest@66498326]" name="tearDown" is-config="true" duration-ms="0" started-at="2023-04-22T06:43:13Z" finished-at="2023-04-22T06:43:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.w2a.APITestingFramework.testcases.CreateCustomerTest -->
+    </test> <!-- Create Customer API Test -->
+  </suite> <!-- Suite -->
+</testng-results>
